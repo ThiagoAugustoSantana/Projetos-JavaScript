@@ -1,2 +1,2 @@
-# Aulas-JavaScript
-Repositório contendo arquivos de aulas de JavaScript da Udemy.
+# Projetos-JavaScript
+Repositório contendo arquivos de projetos em JavaScript.
